@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Noah Carlson
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in the ever evolving world of technology
 - 🌱 I’m currently learning how to use github
 - 💞️ I’m looking to collaborate on any simple projects for beginners
 - 📫 How to reach me => noahjc0501@gmail.com
